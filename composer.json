@@ -1,0 +1,12 @@
+{
+  "name": "drupalninja/drupalx_bootswatch",
+  "description": "Bootswatch theme generator for DrupalX theme.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jay Callicott",
+      "role": ""
+    }
+  ]
+}

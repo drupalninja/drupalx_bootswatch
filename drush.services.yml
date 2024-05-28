@@ -1,0 +1,5 @@
+services:
+  drupalx_bootswatch.commands:
+    class: \Drupal\drupalx_bootswatch\Commands\DrupalXBootswatchCommands
+    tags:
+      - { name: drush.command }
